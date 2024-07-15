@@ -69,6 +69,8 @@ body {
     position: relative;
     margin-bottom: 10px;
     text-align: center;
+    color: #000 !important;
+    font-weight: bold;
 }
 
 .text-muted span {
