@@ -28,7 +28,7 @@ body {
 .footer {
     width: 100%;
     z-index: 9999;
-    background-color: rgba(232, 243, 255, 0.8);
+    background-color: rgb(255 255 255 / 20%);
     padding: 15px 10px;
     position: fixed;
     bottom: 0
