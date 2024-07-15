@@ -1223,7 +1223,8 @@ h1 {}
 
 @media(max-width:1200px) {
     .kv-main {
-        margin-bottom: 150px !important
+        margin-bottom: 150px !important;
+        background-color: #fff;
     }
 
     .pricingTable-box {
