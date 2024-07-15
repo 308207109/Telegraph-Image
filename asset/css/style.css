@@ -4,7 +4,9 @@
     font-weight: 400
 }
 
-body {}
+body {
+    background-image: url('https://imgapi.cn/api.php?zd=zsy&fl=suiji&gs=images');
+}
 
 /* 自定义滚动条样式 */
 ::-webkit-scrollbar {
