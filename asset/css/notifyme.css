@@ -150,7 +150,8 @@
     position: unset;
     top: 0;
     right: 0;
-    left: 0
+    left: 0;
+    background-color: rgba(232, 243, 255, 0.8);
 }
 
 @media(max-width:768px) {
